@@ -68,6 +68,8 @@ Licensed under either of Apache License 2.0 or MIT License at your option.
 
 ---
 
+---
+
 ## Support This Project
 
 If you find this project useful, consider buying me a coffee! Your support helps me keep building and sharing open-source tools.
